@@ -4,7 +4,7 @@
 
 
 
-### Header
+### 헤더(Header)
 
 > 문서의 제목,  부제목, 글머리
 >
@@ -23,19 +23,15 @@
 
 
 
-### BlockQuote
+### 인용문(BlockQuote)
 
-> 인용문
->
 > `>` 입력 후 `Space` 입력
 >
 > 다른 마크다운 요소 포함 가능
 
 
 
-### List
-
-> 목록
+### 목록(List)
 
 * 순서가 있는 목록
 
@@ -51,7 +47,7 @@
 
 
 
-### CodeBlock
+### 코드(CodeBlock)
 
 * Inline
 
@@ -67,10 +63,8 @@
 
 
 
-### Image
+### 이미지(Image)
 
-> 이미지
->
 > `[Title](Image Link)` 입력
 >
 > 서식 -> 이미지 -> 전역 이미지 설정에서
@@ -83,18 +77,14 @@
 
 
 
-### Link
+### 링크(Link)
 
-> 특정 주소 링크
->
 > `[Title](Address Link)` 입력
 
 
 
-### Table
+### 표(Table)
 
-> 표
->
 > `|` 사이에 Column 작성 후 `Enter` 입력
 >
 > `Ctrl + t`의 단축키 사용 가능
